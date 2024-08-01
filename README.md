@@ -5,7 +5,7 @@ An Enthusiastic Developer and UI/UX Designer with expertise in Frontend develope
 
 ## What am I doing now 👨🏻‍💻
 
-- Learning JavaScript frameworks and libraries
+- Learning JavaScript frameworks and libraries(React and Next.js)
 - Exploring blockchain technology, including Ethereum, Solidity, and Chainlink
 - Developing and contributing to innovative projects
 
